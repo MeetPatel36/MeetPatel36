@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Patel</h1>
+<h1 align="center">👋 Hi, I'm Meet Patel</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
 
 # 💫 About Me:
